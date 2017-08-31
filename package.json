@@ -1,0 +1,13 @@
+{
+  "name": "example-go-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "go build",
+    "start": "./example-go-pipeline",
+    "exec": "go build && ./example-go-pipeline"
+  },
+  "author": "Ladislav Lisy",
+  "license": "MIT",
+  "dependencies": {}
+}
