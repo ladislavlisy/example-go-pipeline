@@ -10,6 +10,7 @@
 /build
 /bin
 /pkg
+/.wercker/**/*
     
 # misc
 .DS_Store

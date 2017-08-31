@@ -76,4 +76,4 @@ deploy:
        org: $ORG
        space: $SPACE
        appname: example-go-pipeline
-       docker_image: ladislavlisy/example-go
+       docker_image: ladislavlisy/example-go-pipeline
